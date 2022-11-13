@@ -4,7 +4,7 @@
 
 
 
-As any Minesweeper, the board is comnpose of 400 titles, 25 horizontal and 16 vertical; and a total of 50 mines seet up at random game.
+As any Minesweeper, the board is compose of 400 titles, 25 horizontal and 16 vertical; and a total of 50 mines set up at random game.
 
 <img width="200" heigth="200" alt="Screen Shot 2022-06-08 at 10 18 23 PM" src="https://user-images.githubusercontent.com/44034603/172755023-6cf87514-76df-4a4f-9c52-7d4afeb4bc64.png">
 
